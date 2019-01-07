@@ -1,0 +1,10 @@
+Package: com.wh0ba.rompatcher
+Name: rompatcher
+Depends: 
+Version: 1.0
+Architecture: iphoneos-arm
+Description: ips, bps, ups ROM patcher
+Maintainer: Wh0ba <whappfanr@gmail.com>
+Author: Wh0ba <whappfanr@gmail.com>
+Section: System
+Tag: role::hacker
