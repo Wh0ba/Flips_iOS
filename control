@@ -1,5 +1,5 @@
-Package: com.wh0ba.rompatcher
-Name: rompatcher
+Package: com.wh0ba.flips
+Name: flips
 Depends: 
 Version: 1.0
 Architecture: iphoneos-arm
